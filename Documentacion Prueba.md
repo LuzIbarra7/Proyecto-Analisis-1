@@ -41,6 +41,7 @@
 La disponibilidad del sistema de registro debe ser del 99.9%
 
 ## **_Búsqueda de Libros_**
+
 **_Funcionales_**:
 
 + El sistema debe permitir a los usuarios buscar libros por título, autor, género o ISBN.

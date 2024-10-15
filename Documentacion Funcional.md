@@ -1,4 +1,5 @@
 # Documentación Funcional
+
 ## _1. Descripción General_
 
 El sistema de biblioteca permite a los usuarios gestionar el préstamo y devolución de libros, visualizar los catálogos de la biblioteca, y administrar el registro de usuarios. Está diseñado para facilitar tanto a bibliotecarios como a usuarios la interacción con los recursos disponibles.
